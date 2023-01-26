@@ -24,6 +24,7 @@
 - create ecommerce_app
 - create user, product, cart, and order models
 - create user, product, cart, and order serializers
+- create login, product, cart, order view
 
 ## Important Notes: 
 You are allowed to Google resources such as Django and Django rest framework documentation. Please feel free to upgrade Django if necessary. 
