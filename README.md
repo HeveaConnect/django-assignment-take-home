@@ -5,27 +5,25 @@
 - use virtualenv is preferred
 
 ## Project Description
-- A note can consist of 0 or many tags. 
-- A note has title, description and tags. 
-- A tag has name. 
-- A note can be added, edited, retrieved and deleted.
+- there should be a ADMIN and SHOPPER user.
+- ALL users must be able to login in order to call their respectives API.
+- ONLY an ADMIN can add, edit, or remove products.
+- A SHOPPER can add and remove a product to their cart.
+- A SHOPPER can complete their respective cart as an order.
+- A SHOPPER can retreive their PENDING order.
+- ONLY an ADMIN can retreive all PENDING order.
+- ONLY an ADMIN can mark a PENDING order as DELIVERED.
+- A product has a name, price, and description. 
+- A cart has multiple products.
+- An order has multiple products, "PENDING" or "DELIVERED" states.
+- A user has a ADMIN or SHOPPER type.
 
 ## Tasks
 - install requirements into python environment
-- create note_app
-- create note model
-- create tag model
-- create note serializers
-- create note views
-    - To get list of all notes
-    - To create a note
-    - To get a detailed view of note
-    - To allow modification to the existing note
-    - To delete a given note
-- create tag views
-    - To get list of all tags
-    - To get a tag and its corresponding notes where it is used
-    - To delete a tag 
+- create auth_app
+- create ecommerce_app
+- create user, product, cart, and order models
+- create user, product, cart, and order serializers
 
 ## Important Notes: 
 You are allowed to Google resources such as Django and Django rest framework documentation. Please feel free to upgrade Django if necessary. 
