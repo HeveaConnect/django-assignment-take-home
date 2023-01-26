@@ -10,12 +10,12 @@
 - ONLY an ADMIN can add, edit, or remove products.
 - A SHOPPER can add and remove a product to their cart.
 - A SHOPPER can complete their respective cart as an order.
-- A SHOPPER can retreive their PENDING order.
-- ONLY an ADMIN can retreive all PENDING order.
-- ONLY an ADMIN can mark a PENDING order as DELIVERED.
+- A SHOPPER can retreive their ORDERED order.
+- ONLY an ADMIN can retreive all ORDERED order.
+- ONLY an ADMIN can mark a ORDERED order as DELIVERED.
 - A product has a name, price, and description. 
 - A cart has multiple products.
-- An order has multiple products, "PENDING" or "DELIVERED" states.
+- An order has multiple products, "ORDERED" or "DELIVERED" state.
 - A user has a ADMIN or SHOPPER type.
 
 ## Tasks
