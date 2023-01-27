@@ -29,3 +29,10 @@
 ## Important Notes: 
 You are allowed to Google resources such as Django and Django rest framework documentation. Please feel free to upgrade Django if necessary. 
 Also keep in mind that you do not need to build any UI i.e. using django templates or any other frameworks. If possible, we would like to see DRF UI for different API interactions.
+
+## How to Start?
+Import the project as a private repo https://github.com/new/import 
+
+![import-project](images/import-project.png)
+
+Clone your private repo into your folder
