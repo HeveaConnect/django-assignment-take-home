@@ -36,3 +36,12 @@ Import the project as a private repo https://github.com/new/import
 ![import-project](images/import-project.png)
 
 Clone your private repo into your folder
+
+# Submission
+Please add the following users as contributors in your private repo
+
+## Django assignment reviewers
+- [weikiat87](https://github.com/weikiat87)
+- [sruthiganesh-HC](https://github.com/sruthiganesh-HC)
+- [ShankarRM](https://github.com/ShankarRM)
+- [abhi-agridence](https://github.com/abhi-agridence)
